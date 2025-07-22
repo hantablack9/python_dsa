@@ -3,7 +3,7 @@
 This project contains my implementations and applications of DSA in Python language. This is intended to document my learning process and applications of Data Structures and Algorithms for popular use-cases and interview questions.
 
 ## Item List
-1. Big O Notation
+1. [Big O Notation](https://www.geeksforgeeks.org/dsa/analysis-algorithms-big-o-analysis/)
 2. Time complexity analysis
 3. Data Structures
 >- Stacks
