@@ -1,5 +1,5 @@
 *.egg-info
 
 # theory.md
-# theory.html
+theory.html
 .vscode
