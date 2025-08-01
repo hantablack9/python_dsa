@@ -7,7 +7,7 @@ def two_large(nums: Optional[list[int | float]])-> Optional[int | float]:
     ECs: zero matrix,idem
     """
     try:
-        if not nums or not len(set(nums))<2:
+        if not nums or len(set(nums))<2:
             return None
     except IndexError:
         return None
